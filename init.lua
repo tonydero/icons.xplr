@@ -35,8 +35,8 @@ function setup()
 
   -- File = '',
   -- Folder = '',
-  xplr.config.node_types.directory.meta.icon = blue ""
-  xplr.config.node_types.file.meta.icon = cyan ""
+  xplr.config.node_types.directory.meta.icon = ""
+  xplr.config.node_types.file.meta.icon = ""
   xplr.config.node_types.symlink.meta.icon = magenta ""
 
   -- ["jpeg"] = {
